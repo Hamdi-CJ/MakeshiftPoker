@@ -1,8 +1,11 @@
 package create;
+import java.lang.Character;
+import java.lang.Integer;
+import java.lang.String;
+import java.lang.System;
 import java.util.*;
-import java.lang.*;
 import java.io.*;
-//todo: implement n player scalability (probablility of this happening is almost 0
+//todo: implement n player scalability (probablility of this happening is almost 0)
 
 public class creations {
 	static PrintStream Player1TextField;
