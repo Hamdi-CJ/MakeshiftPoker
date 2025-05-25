@@ -1,11 +1,13 @@
 package create;
-import java.lang.Character;
-import java.lang.Integer;
-import java.lang.String;
-import java.lang.System;
-import java.util.*;
-import java.io.*;
-//todo: implement n player scalability (probablility of this happening is almost 0)
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.PrintStream;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.Random;
+import java.util.Scanner;
+//todo: implement n player scalability (probablility of this happening is almost 0
 
 public class creations {
 	static PrintStream Player1TextField;
